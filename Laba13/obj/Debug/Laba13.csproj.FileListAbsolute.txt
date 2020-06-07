@@ -1,0 +1,10 @@
+C:\Users\U2\RiderProjects\Laba13\Laba13\bin\Debug\Laba13.exe
+C:\Users\U2\RiderProjects\Laba13\Laba13\bin\Debug\Laba13.pdb
+C:\Users\U2\RiderProjects\Laba13\Laba13\bin\Debug\Goods.dll
+C:\Users\U2\RiderProjects\Laba13\Laba13\bin\Debug\Mycollection.dll
+C:\Users\U2\RiderProjects\Laba13\Laba13\bin\Debug\Goods.pdb
+C:\Users\U2\RiderProjects\Laba13\Laba13\bin\Debug\Mycollection.pdb
+C:\Users\U2\RiderProjects\Laba13\Laba13\obj\Debug\Laba13.csprojAssemblyReference.cache
+C:\Users\U2\RiderProjects\Laba13\Laba13\obj\Debug\Laba13.csproj.CopyComplete
+C:\Users\U2\RiderProjects\Laba13\Laba13\obj\Debug\Laba13.exe
+C:\Users\U2\RiderProjects\Laba13\Laba13\obj\Debug\Laba13.pdb

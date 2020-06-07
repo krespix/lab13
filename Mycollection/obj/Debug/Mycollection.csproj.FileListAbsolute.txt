@@ -1,0 +1,8 @@
+C:\Users\U2\RiderProjects\Laba13\Mycollection\bin\Debug\Mycollection.dll
+C:\Users\U2\RiderProjects\Laba13\Mycollection\bin\Debug\Mycollection.pdb
+C:\Users\U2\RiderProjects\Laba13\Mycollection\obj\Debug\Mycollection.csprojAssemblyReference.cache
+C:\Users\U2\RiderProjects\Laba13\Mycollection\obj\Debug\Mycollection.dll
+C:\Users\U2\RiderProjects\Laba13\Mycollection\obj\Debug\Mycollection.pdb
+C:\Users\U2\RiderProjects\Laba13\Mycollection\bin\Debug\Goods.dll
+C:\Users\U2\RiderProjects\Laba13\Mycollection\bin\Debug\Goods.pdb
+C:\Users\U2\RiderProjects\Laba13\Mycollection\obj\Debug\Mycollection.csproj.CopyComplete

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba13", "Laba13\Laba13.csproj", "{AE2E3D83-C58F-40D7-8328-0BEE5B733113}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goods", "Goods\Goods.csproj", "{CE35CEC1-BD66-484E-A66E-18B521BEC308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mycollection", "Mycollection\Mycollection.csproj", "{0EB74F5B-8EE0-4197-B34A-D905E6252E36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE2E3D83-C58F-40D7-8328-0BEE5B733113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE2E3D83-C58F-40D7-8328-0BEE5B733113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE2E3D83-C58F-40D7-8328-0BEE5B733113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE2E3D83-C58F-40D7-8328-0BEE5B733113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE35CEC1-BD66-484E-A66E-18B521BEC308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE35CEC1-BD66-484E-A66E-18B521BEC308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE35CEC1-BD66-484E-A66E-18B521BEC308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE35CEC1-BD66-484E-A66E-18B521BEC308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EB74F5B-8EE0-4197-B34A-D905E6252E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB74F5B-8EE0-4197-B34A-D905E6252E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB74F5B-8EE0-4197-B34A-D905E6252E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB74F5B-8EE0-4197-B34A-D905E6252E36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\U2\RiderProjects\Laba13\Goods\bin\Debug\Goods.dll
+C:\Users\U2\RiderProjects\Laba13\Goods\bin\Debug\Goods.pdb
+C:\Users\U2\RiderProjects\Laba13\Goods\obj\Debug\Goods.csprojAssemblyReference.cache
+C:\Users\U2\RiderProjects\Laba13\Goods\obj\Debug\Goods.dll
+C:\Users\U2\RiderProjects\Laba13\Goods\obj\Debug\Goods.pdb
